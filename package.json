@@ -1,0 +1,24 @@
+{
+  "name": "calorieheist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tulasiram1/CalorieHeist.git"
+  },
+  "author": "Tulasi Ram Reddy Gade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tulasiram1/CalorieHeist/issues"
+  },
+  "homepage": "https://github.com/tulasiram1/CalorieHeist#readme"
+}
